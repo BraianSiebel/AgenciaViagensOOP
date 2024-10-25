@@ -1,0 +1,15 @@
+c:\Users\braia\Ap24Real\bin\Debug\net8.0\Ap24Real.exe
+C:\Users\braia\Ap24Real\bin\Debug\net8.0\Ap24Real.deps.json
+C:\Users\braia\Ap24Real\bin\Debug\net8.0\Ap24Real.runtimeconfig.json
+c:\Users\braia\Ap24Real\bin\Debug\net8.0\Ap24Real.dll
+c:\Users\braia\Ap24Real\bin\Debug\net8.0\Ap24Real.pdb
+c:\Users\braia\Ap24Real\obj\Debug\net8.0\Ap24Real.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\braia\Ap24Real\obj\Debug\net8.0\Ap24Real.AssemblyInfoInputs.cache
+c:\Users\braia\Ap24Real\obj\Debug\net8.0\Ap24Real.AssemblyInfo.cs
+c:\Users\braia\Ap24Real\obj\Debug\net8.0\Ap24Real.csproj.CoreCompileInputs.cache
+c:\Users\braia\Ap24Real\obj\Debug\net8.0\Ap24Real.sourcelink.json
+c:\Users\braia\Ap24Real\obj\Debug\net8.0\Ap24Real.dll
+c:\Users\braia\Ap24Real\obj\Debug\net8.0\refint\Ap24Real.dll
+c:\Users\braia\Ap24Real\obj\Debug\net8.0\Ap24Real.pdb
+C:\Users\braia\Ap24Real\obj\Debug\net8.0\Ap24Real.genruntimeconfig.cache
+C:\Users\braia\Ap24Real\obj\Debug\net8.0\ref\Ap24Real.dll
